@@ -62,13 +62,3 @@ Sou profissional de TI com ~1 ano de experiência em implantação de software e
 ## 🤝 Vamos conversar?
 Sinta-se à vontade para abrir uma **issue**, enviar um **PR** ou me chamar no **LinkedIn**.  
 Eu curto discutir soluções, revisar código e pensar produto com eficiência.
-
----
-
-<details>
-  <summary>📈 Métricas do GitHub (opcional)</summary>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=ferpgshy&show_icons=true&hide_title=true&theme=dark" height="150" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferpgshy&layout=compact&theme=dark" height="150" />
-  </p>
-</details>
