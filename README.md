@@ -1,4 +1,4 @@
-<h1 align="center">Fernando Portugal Garcia — Desenvolvedor Web Jr (Front-end / Full-stack)</h1>
+<h1 align="center">Fernando Portugal Garcia — Desenvolvedor Web (Front-end / Full-stack)</h1>
 <p align="center">
   Full Stack Developer apaixonado por tecnologia. Experiência com ERPs, Fluig (ECM/BPM) e automações em Python e Lua. Em constante evolução. 🚀<br/>
   Rumo a Tech Lead no médio / longo prazo.
