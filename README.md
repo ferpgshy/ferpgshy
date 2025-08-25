@@ -41,7 +41,7 @@ Sou profissional de TI com ~1 ano de experiência em implantação de software e
 ---
 
 ## 🚧 Projetos em destaque
-- **[kontrollar-intranet](https://github.com/ferpgshy/kontrollar-intranet)** — Dashboard/SPA com HTML/CSS/JS/TS; cards dinâmicos, avisos, chat em grupos, backlog e projetos, **persistência via localStorage** e foco em UX consistente.
+- **[kontrollar-intranet](https://github.com/ferpgshy/kontrollar-intranet)** — Dashboard/SPA com HTML/CSS/JS; cards dinâmicos, avisos, chat em grupos, backlog e projetos, **persistência via localStorage** e foco em UX consistente.
 
 ---
 
