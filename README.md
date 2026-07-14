@@ -126,8 +126,8 @@ Contribuições em customizações, integrações e documentação para a plataf
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ferpgshy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&include_all_commits=true&count_private=true&locale=pt-br" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferpgshy&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=8&locale=pt-br" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ferpgshy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&include_all_commits=true&locale=pt-br" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ferpgshy&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=8&locale=pt-br" alt="Top Languages" />
 
 <br/><br/>
 
@@ -135,7 +135,7 @@ Contribuições em customizações, integrações e documentação para a plataf
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ferpgshy&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="GitHub Trophies" />
+<img src="https://github-trophies.vercel.app/?username=ferpgshy&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="GitHub Trophies" />
 
 <br/><br/>
 
