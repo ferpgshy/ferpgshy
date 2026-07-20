@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=180&section=header&text=Fernando%20Portugal%20Garcia&fontSize=42&fontColor=c0caf5&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Web%20%E2%80%A2%20Front-end%20%2F%20Full-stack&descSize=18&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=180&section=header&text=Fernando%20Garcia&fontSize=42&fontColor=c0caf5&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Web%20%E2%80%A2%20Front-end%20%2F%20Full-stack&descSize=18&descAlignY=55" width="100%"/>
 
 <!-- Typing intro -->
 <a href="https://github.com/ferpgshy">
