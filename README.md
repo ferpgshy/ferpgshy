@@ -30,8 +30,8 @@
 ```typescript
 const fernando = {
   localizacao: "Brasil 🇧🇷 (UTC-3)",
-  atuacao: ["Desenvolvimento Web", "Analista Líder TOTVS Fluig", "Engenharia de processos (BPMN)", "Agentes de IA", "Visão Computacional", "Automações"],
-  experiencia: "Produtos full-stack, levantamento de processos, especificação funcional, implantação de software e homologação",
+  atuacao: ["Analista Líder TOTVS Fluig", "Engenharia de processos (BPMN)", "Produtos Fluig (Kanban e Qualidade)", "Agentes de IA", "Desenvolvimento Web", "Visão Computacional"],
+  experiencia: "Liderança técnica de projetos Fluig em paralelo, produtos sobre o Fluig, produtos full-stack, implantação de software e homologação",
   metodologia: ["Scrum", "estimativas & precificação", "documentação técnica"],
   objetivo: "Evoluir como Dev Web → Tech Lead 🎯",
   lema: "Entregas funcionais, testáveis e bem documentadas",
@@ -39,11 +39,45 @@ const fernando = {
 ```
 
 - 🔭 Atuo em **produtos full-stack de ponta a ponta**, do frontend React à infraestrutura com Docker e Terraform
-- 🏢 Analista líder **TOTVS Fluig**: levantamento de processos, **BPMN**, especificação funcional (Pré-MIT e MIT098), formulários ECM, datasets, eventos e widgets WCM
+- 🏢 **Analista líder TOTVS Fluig**: hoje toco **9 projetos de consultoria em paralelo**, mais 1 parceria acadêmica, do kick-off e do levantamento ao BPMN, à MIT098 e ao formulário por etapa
 - 👁️ Trabalho com **visão computacional** (YOLOv8, OpenCV) e **processamento de vídeo em tempo real**
 - 🧩 Vivência em **estimativas, documentação funcional/técnica** e apresentações executivas
 - 🤖 Construo **agentes de IA com Claude Code** para o dia a dia de consultoria: do levantamento ao BPMN, à MIT e aos formulários, com fonte para cada informação
 - 🌱 Aprofundando **React/TypeScript** (patterns e testes) e arquitetura para liderar squads
+
+<br/>
+
+## 🏢 Analista Líder Fluig: o que está na minha mesa
+
+Projetos de consultoria em andamento, por segmento (sem nome de cliente):
+
+| Segmento | Processo | ERP TOTVS |
+| --- | --- | --- |
+| Educação (superior e básica) | Concessão de bolsas de estudo filantrópicas, com formulário público e triagem de renda | RM |
+| Educação (superior) | Recebimento de novos contratos, do pedido da área ao arquivamento no GED | RM |
+| Distribuição atacadista | Aprovação de bonificação de pedidos, liberando ou cancelando no ERP | WinThor |
+| Varejo por franquias | Implantação de PDV e abertura de lojas, com gates e cronograma reverso | Protheus |
+| Agronegócio (cooperativa) | Rodada de compras coletiva de insumos, com simulador e portal do cooperado | Protheus |
+| Serviços de RH (BPO de folha) | Portal multicliente de solicitações ao BPO, com alçadas configuráveis | RM |
+| Instituição com cerca de 40 unidades | Compras em 7 passos, com alçadas | RM |
+| Serviços funerários | Compras como primeiro processo da gestão da qualidade | Protheus |
+| Perícia trabalhista | Esteira de cinco serviços por ação, com portal do cliente | sem integração |
+
+**O que entrego:** condução de kick-off e de levantamento · BPMN · Pré-MIT, MIT098 e atas MIT005 · formulário ECM por etapa e especificação de campos · estimativa de esforço por funcionalidade · decisões técnicas de integração com RM, Protheus e WinThor · roteiro de instalação on-premise · validação de ambiente no TOTVS Cloud · treinamento funcional
+
+**Mentoria:** desafios práticos de Fluig para uma disciplina de graduação (parceria acadêmica): 5 atividades encadeadas (BPMN, formulário com pai-filho e máscara, eventos, dataset e mecanismo de atribuição, integração REST), suporte à turma e validação técnica das entregas.
+
+<br/>
+
+## 🤖 Agentes de IA que construí (Claude Code)
+
+| Agente | O que faz | Como é montado |
+| --- | --- | --- |
+| **Fluig Agent** *(privado)* e **[Fluig Agent Kit](https://github.com/ferpgshy/fluig-agent-kit)** *(público)* | Consultoria Fluig do levantamento à MIT098, nada sem fonte. Uma sessão central lê e-mail e WhatsApp e distribui para uma sessão por cliente | Base de conhecimento com 67 documentos e 215 regras de qualidade de código Fluig, 6 comandos, 12 scripts (Node, Python, Playwright) |
+| **agent-roblox** | Lead dev dos meus jogos Roblox: arquitetura, Luau no Roblox Studio, teste, publicação e vitrine | 17 comandos, 4 subagentes, 7 skills, MCP do Roblox Studio |
+| **agent-discord** | Bots de Discord em discord.js com TypeScript e montagem de servidores | 15 comandos, 4 subagentes, 6 skills, MCP da documentação do Discord |
+| **agent-vavis** | Estúdio de concept de skin de arma com IA, do briefing à prancha final | Modelos de imagem e 3D, Pillow, Blender headless |
+| **Escritório Vivo** *(em construção)* | Escritório isométrico onde cada agente em sessão aparece como um avatar trabalhando | TypeScript, PixiJS |
 
 <br/>
 
@@ -93,13 +127,9 @@ Câmeras ──▶ Ingest RTMP (Go + SRS) ──▶ Redis Streams ──▶ Cons
 
 Sistema de análise visual para sinuca: captura frames da tela em tempo real, **detecta bolas e mesa (OpenCV)**, calcula **trajetórias e previsão de tacadas** e renderiza overlay transparente. Inclui calibração HSV, modo debug e sistema de releases com licenças. `Python`
 
-### 🏢 TOTVS Fluig: consultoria e produtos *(atuação profissional)*
+### 🏢 Produtos Kanban e Qualidade para Fluig *(atuação profissional)*
 
-Levanto processos com o cliente e transformo em **BPMN**, especificação funcional (Pré-MIT e MIT098) e formulário por etapa. No desenvolvimento, contribuo nos produtos **Kanban** e **Qualidade** para Fluig (widgets WCM): tela de integrantes do quadro, filtros, edição de ocorrências, visualização de anexos, exportação por dataset e modo escuro. `JavaScript` `TypeScript` `FreeMarker`
-
-### 🧠 Fluig Agent Kit *(projeto próprio)*
-
-**[fluig-agent-kit](https://github.com/ferpgshy/fluig-agent-kit)**: kit de trabalho para projetos TOTVS Fluig com agentes de IA. Transforma levantamento de processo em Pré-MIT, MIT098, BPMN, formulário ECM por etapa e especificação de campos, sem nenhuma informação sem fonte. `HTML` `Python` `Node`
+Aplicativos sobre o Fluig em widgets WCM. Desde junho de 2026 são **74 commits e 22 pull requests integrados**: tela de integrantes do quadro, filtros de quadros e de atividades, checklist e anexos no cartão, exportação por dataset, ocorrências e planos de ação, visualizador nativo de documentos, i18n em pt-BR, en-US e es, e modo escuro com a widget inteira tokenizada. Cada entrega sai validada em 6 larguras de tela. `JavaScript` `FreeMarker` `SuperWidget`
 
 ### 🌐 Open source & projetos públicos *(projetos próprios)*
 
@@ -109,8 +139,9 @@ Levanto processos com o cliente e transformo em **BPMN**, especificação funcio
 | **[kontrollar-backend](https://github.com/ferpgshy/kontrollar-backend)** | API/back-end do ecossistema Kontrollar | `JavaScript` `Node` |
 | **[streaming-anti-hijack](https://github.com/ferpgshy/streaming-anti-hijack)** | Defesa em camadas contra popup/popunder/click-hijack: userscript standalone, sem depender de adblock | `JavaScript` |
 | **[d4forge](https://github.com/ferpgshy/d4forge)** | Assistente de encantamento para Diablo IV: lê as opções na tela por OCR e decide pelas suas regras | `Python` |
-| **[filtro-de-vagas](https://github.com/ferpgshy/filtro-de-vagas)** | Userscript que lê a vaga aberta e sinaliza dealbreakers em LinkedIn, Catho, Gupy e outros | `JavaScript` |
-| **[tadaaa](https://github.com/ferpgshy/tadaaa)** | Jogos de festa e desafios direto no navegador, sem login | `TypeScript` |
+| **[filtro-de-vagas](https://github.com/ferpgshy/filtro-de-vagas)** | Userscript que lê a vaga aberta e avisa quando os requisitos têm um dealbreaker, em 9 sites de emprego | `JavaScript` |
+| **[tadaaa](https://github.com/ferpgshy/tadaaa)** | Jogos de festa no navegador, sem login, com sala online por link e placar ao vivo | `Next.js` `Supabase` |
+| **[SetupShare](https://setupshare.com.br)** | Comunidade para compartilhar setups gamer: peças, preços, login com Discord e jogos da Steam | `Next.js` `Supabase` |
 | **[fluig-board](https://github.com/ferpgshy/fluig-board)** | Board de gestão integrado ao Fluig (ECM/BPM) | `TypeScript` |
 | **[vencord-focus-mode](https://github.com/ferpgshy/vencord-focus-mode)** | Plugin para Discord (Vencord): modo foco sem distrações | `TypeScript` |
 | **[attack-shark-v4-R82HE](https://github.com/ferpgshy/attack-shark-v4-R82HE)** | Engenharia reversa + redesign visual do driver Attack Shark (Electron) com documentação de build | `HTML` `Electron` |
@@ -124,7 +155,7 @@ Levanto processos com o cliente e transformo em **BPMN**, especificação funcio
 - 🌆 **Sites para comunidades de jogos**: regras, formulários e organizações (múltiplos projetos `TypeScript`/`React`)
 - 🤖 **automatizantion-rep4rep**: automação de API `JavaScript`
 - 📦 **jynx-fechamento-automatizado**: automação de fechamento `TypeScript`
-- 🔧 **shyhub**, **setup-share**, **repo-grabber**: ferramentas e utilitários `TypeScript`
+- 🔧 **shyhub**, **repo-grabber**: ferramentas e utilitários `TypeScript`
 
 </details>
 
