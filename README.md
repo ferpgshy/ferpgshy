@@ -134,8 +134,8 @@ Levanto processos com o cliente e transformo em **BPMN**, especificação funcio
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ferpgshy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&include_all_commits=true&locale=pt-br" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ferpgshy&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=8&locale=pt-br" alt="Top Languages" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ferpgshy&theme=tokyonight" alt="GitHub Stats" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ferpgshy&theme=tokyonight" alt="Linguagens" />
 
 <br/><br/>
 
