@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=180&section=header&text=Fernando%20Garcia&fontSize=42&fontColor=c0caf5&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Full-stack%20%E2%80%A2%20Consultor%20TOTVS%20Fluig&descSize=18&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=180&section=header&text=Fernando%20Garcia&fontSize=42&fontColor=c0caf5&animation=fadeIn&fontAlignY=35&desc=Analista%20L%C3%ADder%20Fluig%20%E2%80%A2%20Desenvolvedor%20Full-stack&descSize=18&descAlignY=55" width="100%"/>
 
 <!-- Typing intro -->
 <a href="https://github.com/ferpgshy">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%E2%80%A2+TypeScript+%E2%80%A2+Node+%E2%80%A2+Python+%E2%80%A2+Go;Vis%C3%A3o+Computacional+%E2%80%A2+YOLOv8+%E2%80%A2+OpenCV;Consultor+TOTVS+Fluig+%E2%80%A2+BPM+%E2%80%A2+ECM+%E2%80%A2+WCM;Agentes+de+IA+com+Claude+Code;Rumo+a+Tech+Lead+%F0%9F%8E%AF" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%E2%80%A2+TypeScript+%E2%80%A2+Node+%E2%80%A2+Python+%E2%80%A2+Go;Vis%C3%A3o+Computacional+%E2%80%A2+YOLOv8+%E2%80%A2+OpenCV;Analista+L%C3%ADder+TOTVS+Fluig+%E2%80%A2+BPM+%E2%80%A2+ECM+%E2%80%A2+WCM;Agentes+de+IA+com+Claude+Code;Rumo+a+Tech+Lead+%F0%9F%8E%AF" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -30,7 +30,7 @@
 ```typescript
 const fernando = {
   localizacao: "Brasil 🇧🇷 (UTC-3)",
-  atuacao: ["Desenvolvimento Web", "Consultoria TOTVS Fluig", "Engenharia de processos (BPMN)", "Agentes de IA", "Visão Computacional", "Automações"],
+  atuacao: ["Desenvolvimento Web", "Analista Líder TOTVS Fluig", "Engenharia de processos (BPMN)", "Agentes de IA", "Visão Computacional", "Automações"],
   experiencia: "Produtos full-stack, levantamento de processos, especificação funcional, implantação de software e homologação",
   metodologia: ["Scrum", "estimativas & precificação", "documentação técnica"],
   objetivo: "Evoluir como Dev Web → Tech Lead 🎯",
@@ -39,7 +39,7 @@ const fernando = {
 ```
 
 - 🔭 Atuo em **produtos full-stack de ponta a ponta**, do frontend React à infraestrutura com Docker e Terraform
-- 🏢 Consultor **TOTVS Fluig**: levantamento de processos, **BPMN**, especificação funcional (Pré-MIT e MIT098), formulários ECM, datasets, eventos e widgets WCM
+- 🏢 Analista líder **TOTVS Fluig**: levantamento de processos, **BPMN**, especificação funcional (Pré-MIT e MIT098), formulários ECM, datasets, eventos e widgets WCM
 - 👁️ Trabalho com **visão computacional** (YOLOv8, OpenCV) e **processamento de vídeo em tempo real**
 - 🧩 Vivência em **estimativas, documentação funcional/técnica** e apresentações executivas
 - 🤖 Construo **agentes de IA com Claude Code** para o dia a dia de consultoria: do levantamento ao BPMN, à MIT e aos formulários, com fonte para cada informação
